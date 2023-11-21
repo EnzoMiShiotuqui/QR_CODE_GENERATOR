@@ -32,7 +32,7 @@ Open with live server
 
 ## ScreenShot
 
-![screenshot](Screenshot_1.png)
+![screenshot](print.png)
 
 ## Authors
 
